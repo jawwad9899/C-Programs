@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: I compared it with sort1 and sort2 and also noted time , In every test it was very slow and I realised that it is Bubble Sort
+
+sort2 uses: Merge Sort
+
+How do you know?:I compared it with sort1 and sort3 and also noted time , In every test it was fastest among others and I realised that it is Merge Sort
+
+sort3 uses: Selection Sort
+
+How do you know?: I compared it with sort1 and sort2 and also noted time , In every test it was faster than Bubble Sort But Slower Than Merge Sort and I realised that it is Bubble Sort
